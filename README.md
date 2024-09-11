@@ -2,8 +2,18 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15872966&assignment_repo_type=AssignmentRepo)
 # se-day-2-git-and-github
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
+Version Control:
+1. Version control systems (VCS) track changes to files over time.
+2. They allow multiple people to work on a project simultaneously without overwriting each other's work.
+3. Key benefits include maintaining a history of changes, reverting to previous states, and managing branches for feature development.
 
+   But why Github ?
+This is because GitHub is a popular platform that uses Git, a distributed version control system. It provides a web-based interface for Git repositories. It also provides features include collaboration tools, issue tracking, and project management.
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+
+Maintaining Project Integrity:
+1. Version control prevents conflicts and data loss.
+2. It maintains a comprehensive history of all changes, which helps in auditing and troubleshooting.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
